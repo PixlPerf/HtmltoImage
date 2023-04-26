@@ -1,0 +1,23 @@
+{
+  "name": "htmltoimage",
+  "version": "1.0.0",
+  "description": "Convert Html to Image via Server side without headless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixlPerf/HtmltoImage.git"
+  },
+  "author": "Ash Boy | PixlPerf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PixlPerf/HtmltoImage/issues"
+  },
+  "homepage": "https://github.com/PixlPerf/HtmltoImage#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-webshot": "^1.0.4"
+  }
+}
